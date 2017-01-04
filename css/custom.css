@@ -548,7 +548,7 @@ div.responsive a.next-step, div.responsive button.next-step {
         border: none;
         background-color: #d4e8f3 !important;
 	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#EE3722));
 	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	color: #fff;
 }
