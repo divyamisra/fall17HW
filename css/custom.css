@@ -73,42 +73,42 @@ background: #575757;
 div.responsive a.secondary-step, div.responsive button.secondary-step {
          border: none;
          background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	color: #fff;
 	text-decoration: none;
 }
 
 #another-button{
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 	
 #part_ctr_container_step.next-step.step-button{
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 #part_ctr_container_step.next-step{
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 #part_ctr_container_step.step-button{
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
@@ -244,8 +244,8 @@ div.responsive a.secondary-step, div.responsive button.secondary-step {
 }
 #fr_find_search.action-button{
 	/* background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;*/
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d61d1d !important;
 	color: #fff;
 }
@@ -368,7 +368,7 @@ div#find_participant button.search-button {
 background: url("https://secure3.convio.net/heart/images/content/pagebuilder/search-button1.png ");
 width: 69px;
 height: 40px;
-background-color: #e51c22;
+background-color: #EE3722;
 border-color: #890707 !important;
 padding: 15px;
 }
@@ -389,9 +389,9 @@ div.responsive input[type="text"], div.responsive input[type="number"], div.resp
 }*/
 
 div.responsive a.step-button:hover, div.responsive button.step-button:hover, div.responsive input.step-button:hover {
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
@@ -400,9 +400,9 @@ div#team_find_search_results_container div.list-component-cell-column-join-link 
 	display: inline-block;
 	border: 1px solid #b5cbd9 !important;
 	background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	color: #fff !important;
 	text-align: center;
 	font-weight: bold;
@@ -467,9 +467,9 @@ div#team_find_search_results_container div.list-component-cell span.list-compone
 div.responsive button.next-step {
 	border: 1px solid #b5cbd9 !important;
 	background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	color: #fff !important;
 	font-weight: bold;
 !important;
@@ -547,9 +547,9 @@ div#find_participant div.search-content {
 div.responsive a.next-step, div.responsive button.next-step {
         border: none;
         background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
 	color: #fff;
 }
 div.donation-form-container.responsive {
