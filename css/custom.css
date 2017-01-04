@@ -1002,7 +1002,7 @@ input[type="date"], input[type="datetime"], input[type="email"], input[type="fil
 .progress-bar-container .progress-bar-step-number-container, .progress-bar-container .progress-bar-step-current .progress-bar-step-number-container {
      background-color: inherit;
      border-radius: 50px;
-     border: 2px solid #9a3324;
+     border: 2px solid #9a3324 !important;
      color: #7e7e7e;
      display: block;
      font-size: 30px;
