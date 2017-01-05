@@ -32,6 +32,9 @@ background-position: top;
 background: linear-gradient(to right, rgba(231,56,39,0.9) 0%, rgba(246,41,12,0.9) 0%, rgba(240,47,23,0.9) 29%, rgba(248,149,33,0.9) 100%);	
 }
 
+.heart-hero heart-hero--participant-center{
+background: linear-gradient(to right, rgba(231,56,39,0.9) 0%, rgba(246,41,12,0.9) 0%, rgba(240,47,23,0.9) 29%, rgba(248,149,33,0.9) 100%);	
+}
 
 .btn-primary, .btn-primary:link, .btn-primary:visited, a.btn-primary, a.btn-primary:link, a.btn-primary:visited {
     background-color: #EE3720 !important;
