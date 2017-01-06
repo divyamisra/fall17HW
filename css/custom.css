@@ -1,16 +1,15 @@
 /* header styles */
-/*Fall 2017 Styles added*/
 #headerWrapper .container {
 	position:relative;
 }
 #headerWrapper .container .row {
-	margin:0; 
+	margin:0;
 }
 
 .heart-hero__info hr {
 display: none;	
 }
- 
+
 .heart-hero--entry .heart-hero__mask {
     height: 270px;
     padding: 40px 50px 0;
@@ -28,23 +27,24 @@ background-position: top;
     min-height: 30px;
 }
 
-.heart-hero__mask {
-background: linear-gradient(to right, rgba(231,56,39,0.9) 0%, rgba(246,41,12,0.9) 0%, rgba(240,47,23,0.9) 29%, rgba(248,149,33,0.9) 100%);	
-}
 
-.heart-hero--participant-center{
-background: linear-gradient(to right, rgba(231,56,39,0.9) 0%, rgba(246,41,12,0.9) 0%, rgba(240,47,23,0.9) 29%, rgba(248,149,33,0.9) 100%);	
-}
-
-.btn-primary, .btn-primary:link, .btn-primary:visited, a.btn-primary, a.btn-primary:link, a.btn-primary:visited {
-    background-color: #EE3720 !important;
-    border-color: #ca1e21;
-    color: #fff;
-}
 .heart-hero--entry .heart-hero__info {
     clear: both !important;
     float: right !important;
     margin: 0;
+}
+.appArea {
+	max-width: 100% !important;
+	width: 100% !important;
+}
+label {
+	font-weight: 100 !important;
+}
+
+input[type="checkbox"], input[type="radio"] {
+	margin: 4px 4px 4px !important;
+	display: inline;
+	font-size: inherit;
 }
 
 .volunteer-survey p{
@@ -76,42 +76,42 @@ background: #575757;
 div.responsive a.secondary-step, div.responsive button.secondary-step {
          border: none;
          background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	color: #fff;
 	text-decoration: none;
 }
 
 #another-button{
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 	
 #part_ctr_container_step.next-step.step-button{
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 #part_ctr_container_step.next-step{
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
 }
 #part_ctr_container_step.step-button{
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
@@ -120,7 +120,7 @@ div.responsive a.secondary-step, div.responsive button.secondary-step {
 	font-size:14px;
 }
 .button {
-	background-color: #EE3720; 
+	background-color: #e21b21; 
 	border: none;
 	color: white;
 	padding: 10px 20px 10px 20px;
@@ -141,7 +141,7 @@ div.responsive a.secondary-step, div.responsive button.secondary-step {
 }
 
 .entry-text-link.secondary-step.step-button.sidebar-button.btn.btn-lg.btn-primary, .btn.btn-lg.btn-primary {
- background: #EE3720 !important;	
+/* background: #f7921e !important;	*/
 }
 
 .loggedin, .loggedout {
@@ -247,8 +247,8 @@ div.responsive a.secondary-step, div.responsive button.secondary-step {
 }
 #fr_find_search.action-button{
 	/* background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;*/
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d61d1d !important;
 	color: #fff;
 }
@@ -371,7 +371,7 @@ div#find_participant button.search-button {
 background: url("https://secure3.convio.net/heart/images/content/pagebuilder/search-button1.png ");
 width: 69px;
 height: 40px;
-background-color: #EE3722;
+background-color: #e51c22;
 border-color: #890707 !important;
 padding: 15px;
 }
@@ -392,9 +392,9 @@ div.responsive input[type="text"], div.responsive input[type="number"], div.resp
 }*/
 
 div.responsive a.step-button:hover, div.responsive button.step-button:hover, div.responsive input.step-button:hover {
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	background-color: #d4e8f3 !important;
 	color: #fff;
 	text-decoration: none;
@@ -403,9 +403,9 @@ div#team_find_search_results_container div.list-component-cell-column-join-link 
 	display: inline-block;
 	border: 1px solid #b5cbd9 !important;
 	background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	color: #fff !important;
 	text-align: center;
 	font-weight: bold;
@@ -470,9 +470,9 @@ div#team_find_search_results_container div.list-component-cell span.list-compone
 div.responsive button.next-step {
 	border: 1px solid #b5cbd9 !important;
 	background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#cd181d));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	color: #fff !important;
 	font-weight: bold;
 !important;
@@ -550,9 +550,9 @@ div#find_participant div.search-content {
 div.responsive a.next-step, div.responsive button.next-step {
         border: none;
         background-color: #d4e8f3 !important;
-	background-image: -moz-linear-gradient(top, #EE3722, #cd181d) !important;
-	background: -webkit-gradient(linear, left top, left bottom, from(#EE3722), to(#EE3722));
-	background-image: -ms-linear-gradient(top, #EE3722 0%, #CD181D 100%);
+	background-image: -moz-linear-gradient(top, #e51c22, #cd181d) !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e51c22), to(#cd181d));
+	background-image: -ms-linear-gradient(top, #E51C22 0%, #CD181D 100%);
 	color: #fff;
 }
 div.donation-form-container.responsive {
@@ -1005,7 +1005,7 @@ input[type="date"], input[type="datetime"], input[type="email"], input[type="fil
 .progress-bar-container .progress-bar-step-number-container, .progress-bar-container .progress-bar-step-current .progress-bar-step-number-container {
      background-color: inherit;
      border-radius: 50px;
-     border: 2px solid #9a3324 !important;
+     border: 2px solid #9a3324;
      color: #7e7e7e;
      display: block;
      font-size: 30px;
